@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brench
 - 👀 I’m interested in ML and Data Analysis.
-- 🌱 I’m currently learning about VLLM.
+- 🌱 I’m currently learning about MLLM.
 
 
 <!---
