@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brench
 - 👀 I’m interested in ML and Data Analysis.
-- 🌱 I’m currently learning about MLLM.
+- 🌱 I’m currently learning about LLM.
 
 [![BrenchCC's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenchCC)](https://github.com/BrenchCC/github-readme-stats)
 <!---
