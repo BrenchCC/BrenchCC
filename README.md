@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brench
 - 👀 I’m interested in ML/DL.
-- 🌱 I’m currently learning about LLM and VLM.
+- 🌱 I’m currently learning about LLM and VLM (a little bit RL Training).
 - 🎆 Huggingface Home [Here](https://huggingface.co/Brench)
 - 📫 How to reach me: 1034594842@qq.com or brenchchen.77@gmail.com 
 
