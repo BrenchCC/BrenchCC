@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Brench
+# 👋 Hi, I’m @Brench. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in ML/DL.
 - 🌱 I’m currently learning about LLM and VLM (a little bit RL Training).
 - 🎆 Huggingface Home [Here](https://huggingface.co/Brench)
-- 📫 How to reach me: 1034594842@qq.com or brenchchen.77@gmail.com 
+- 📫 How to reach me: 1034594842@qq.com or brenchchen.77@gmail.com
 
+  <br>
+# Languages & Techologies<br>
+![Python](https://img.shields.io/badge/Python-purple)
+![SQL](https://img.shields.io/badge/SQL-black)
+![Git](https://img.shields.io/badge/Git-gold)
 [![Brench's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenchCC)](https://github.com/BrenchCC/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenchCC&layout=compact&theme=tokyonight)
