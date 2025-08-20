@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Brench. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 👀 I’m interested in ML/DL.
 - 🌱 I’m currently learning about LLM and VLM (a little bit RL Training).
-- 🎆 Huggingface Home [Here](https://huggingface.co/Brench)
-- 📫 How to reach me: 1034594842@qq.com or brenchchen.77@gmail.com
+- 🎆 My Huggingface Home [Here](https://huggingface.co/Brench)
+- 📫 How to reach me: brenchchen.77@gmail.com or 1034594842@qq.com
 
   <br>
 # Languages & Techologies<br>
