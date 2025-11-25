@@ -16,7 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenchCC&layout=compact&theme=tokyonight)
 
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 <!---
 BrenchCC/BrenchCC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
