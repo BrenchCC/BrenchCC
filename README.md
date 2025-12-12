@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning about LLM and VLM (a little bit RL Training).
 - 🎆 My Huggingface Home [Huggingface](https://huggingface.co/Brench)
 
+![Metrics](https://metrics.lecoq.io/BrenchCC?template=classic&isocalendar=1&lines=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true)
+
 </div>
 
 # Main Skills #
@@ -85,9 +87,6 @@
 </p>
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-
-![Metrics](https://metrics.lecoq.io/BrenchCC?template=classic&isocalendar=1&lines=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true)
 
 # Reach out to me #
 <a href="brenchchen.77@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
