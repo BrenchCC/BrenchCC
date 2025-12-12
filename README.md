@@ -5,6 +5,7 @@
 - 👀 I’m interested in ML/DL.
 - 🌱 I’m currently learning about LLM and VLM (a little bit RL Training).
 - 🎆 My Huggingface Home [Huggingface](https://huggingface.co/Brench)
+- Reach me by brenchchen.77@gmail.com
 
 ![Metrics](https://metrics.lecoq.io/BrenchCC?template=classic&isocalendar=1&lines=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&config.timezone=Asia%2FShanghai&config.twemoji=true&config.octicon=true)
 
