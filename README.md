@@ -69,7 +69,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@Goblin8888">
+    <a href="https://wakatime.com/@BrenchCC">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenchCC&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
@@ -77,11 +77,11 @@
 
 <p align="center">
   <a href="https://github.com/BrenchCC?tab=languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenchCC&theme=gotham&no-frame=true&layout=compact" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenchCC&theme=gotham&no-frame=true&layout=compact" width="38%" />
   </a>
   &nbsp;
   <a href="https://github.com/BrenchCC?tab=achievements">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=BrenchCC&theme=onestar&no-frame=true&column=3&row=2" width="48%" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=BrenchCC&theme=onestar&no-frame=true&column=3&row=2" width="38%" />
   </a>
 </p>
 
@@ -89,18 +89,15 @@
 
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
+<a href="https://wakatime.com/@BrenchCC"><img src="https://wakatime.com/badge/user/7a2517f4-6b5c-4def-b740-e4f0b4c6a72d.svg?style=social" alt="wakatime"></a>
 <a href="https://github.com/BrenchCC?tab=following"><img src="https://img.shields.io/github/stars/BrenchCC?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
 <a href="https://github.com/BrenchCC?tab=followers"><img src="https://img.shields.io/github/followers/BrenchCC?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
-
 <p align="center">
-<a href="https://gist.github.com/BrenchCC"><img src="https://profile-counter.glitch.me/{BrenchCC}/count.svg" alt="BrenchCC :: Visitor's Count" /></a>
-</p>
-
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
+<p align="center">
+  
 # Reach out to me #
 <a href="brenchchen.77@gmail.com"><img src="./assets/gmail.png" alt="Gmail" height="50" title="Send mail"></a>
 
