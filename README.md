@@ -76,10 +76,14 @@
 <!-- activity graph heroku-app end -->
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%"/></a>
-<a href="https://github.com/BrenchCC?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=BrenchCC&theme=onestar&no-frame=true&column=3&row=2"  width="38%"/></a>
+  <a href="https://github.com/BrenchCC?tab=languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenchCC&theme=gotham&no-frame=true&layout=compact" width="48%" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BrenchCC?tab=achievements">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=BrenchCC&theme=onestar&no-frame=true&column=3&row=2" width="48%" />
+  </a>
 </p>
-
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%"/></a>
 
