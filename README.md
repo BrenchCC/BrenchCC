@@ -3,7 +3,7 @@
 <div>
   
 - 👀 I’m interested in ML/DL.
-- 🌱 I’m currently learning about LLM and VLM (a little bit RL Training).
+- 🌱 I’m currently learning about LLM and VLM (now focus on RL Training and llm basic review).
 - 🎆 My Huggingface Home [Huggingface](https://huggingface.co/Brench)
 - Reach me by brenchchen.77@gmail.com
 
