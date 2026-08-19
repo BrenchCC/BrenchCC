@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://huggingface.co/Brench"><img src="https://img.shields.io/badge/HuggingFace-Profile-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
   <a href="mailto:brenchchen.77@gmail.com"><img src="https://img.shields.io/badge/Email-brenchchen.77%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wakatime.com/@BrenchCC"><img src="https://wakatime.com/badge/user/7a2517f4-6b5c-4def-b740-e4f0b4c6a72d.svg?style=social" alt="wakatime"/></a>
+  <a href="https://wakatime.com/@Brench"><img src="https://wakatime.com/badge/user/7a2517f4-6b5c-4def-b740-e4f0b4c6a72d.svg?style=social" alt="wakatime"/></a>
 </p>
 
 ---
@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@BrenchCC">
+  <a href="https://wakatime.com/@Brench">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrenchCC&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph"/>
   </a>
 </p>
